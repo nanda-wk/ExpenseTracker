@@ -11,9 +11,9 @@ The Expense Tracker App is a sleek and intuitive iOS application designed to hel
 - **Dark and Light Modes**: Enjoy a visually comfortable experience with both dark and light modes.
 
 ## Screenshots
-
-![Screenshot 1](Resources/light.gif)
-![Screenshot 2](Resources/dark.gif)
+| Light Mode                               | Dark Mode                                |
+| ---------------------------------------- | -----------------------------------------|
+| ![Screenshot 1](Resources/light.gif)     | ![Screenshot 2](Resources/dark.gif)      |
 
 ## Installation
 
